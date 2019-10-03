@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Magehit_CustomLoginRedirect",
+    "name": "openmage-module-fostering\/magehit_customloginredirect",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Custom Login Redirect Extension",
     "authors": [
